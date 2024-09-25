@@ -1,0 +1,33 @@
+*{
+    font-family: "Rubik", sans-serif;
+  
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 2rem;
+}
+.profile-section{
+    border: 2px solid #333;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+form{
+    font-size: 1.2rem;
+}
+.profileForm-section{
+    margin: 1rem;
+}
+.profileForm-btn{
+    display: block;
+    width: 10rem;
+    padding: 1rem;
+}
+.profileForm-section label{
+    width: 5rem;
+    margin-right: 2rem;
+    
+}
